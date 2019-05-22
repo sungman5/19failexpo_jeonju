@@ -37,6 +37,10 @@ header {
   text-align: center;
 }
 
+.title_banner_mobile {
+  display: none;
+}
+
 .title_banner img{
   max-width: 100rem;
   }
@@ -126,4 +130,58 @@ footer {
   font-size: 1.4rem;
   line-height: 2.5rem;
   color: #6D7278;
+}
+
+@media screen and (max-width: 401px) {
+
+}
+
+@media screen and (max-width: 650px) {
+
+  .gotofailexpo {
+    padding-left: 2rem;
+  }
+
+  .title_banner {
+    display: none;
+  }
+
+  .title_banner_mobile {
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+
+  }
+
+  .slogan {
+    color: #584C9D;
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+
+  .main_text {
+    font-size: 2.4rem;
+    line-height: 4rem;
+  }
+
+  .entry {
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+  }
+
+  .main_image img{
+    width: 90%;
+  }
+
+  .f_container {
+    max-width: 90%;
+    margin: auto;
+  }
+
+  .f_info {
+    padding-bottom: 2rem;
+  }
 }
