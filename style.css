@@ -176,12 +176,18 @@ footer {
     width: 90%;
   }
 
+  footer {
+    padding-bottom: 4rem;
+  }
+
   .f_container {
     max-width: 90%;
     margin: auto;
   }
 
-  footer {
-    padding-bottom: 4rem;
+  .f_privacy a:link{
+    color: #323232;
   }
+
+
 }
