@@ -51,14 +51,6 @@ header {
   margin: auto;
 }
 
-.slogan {
-  color: #584C9D;
-  margin-top: 2rem;
-  font-weight: 400;
-  font-size: 2.5rem;
-  text-decoration:underline;
-
-}
 
 .main_text {
   color: #584C9D;
@@ -156,14 +148,6 @@ footer {
     margin-top: 2rem;
     margin-bottom: 5rem;
 
-  }
-
-  .slogan {
-    color: #584C9D;
-    margin-top: 2rem;
-    font-weight: bold;
-    font-size: 1.6rem;
-    text-decoration:underline;
   }
 
   .main_text {
