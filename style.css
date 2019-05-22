@@ -1,0 +1,129 @@
+*{margin:0; padding:0;}
+
+
+html {
+  font-size: 10px;
+}
+
+header {
+  height: 5rem;
+  background-color: #584C9D;
+}
+
+.gotofailexpo {
+  max-width: 100rem;
+  margin: auto;
+  padding-top: 1.6rem;
+  font-size: 1.4rem;
+}
+
+.gotofailexpo a:link {
+  text-decoration: none;
+  color: #ffff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.gotofailexpo a:visited {
+  color: #ffff;
+  cursor: pointer;
+}
+
+.wrap {
+  min-height: 100%;
+}
+
+.title_banner {
+  text-align: center;
+}
+
+.title_banner img{
+  max-width: 100rem;
+  }
+
+.container {
+  max-width: 100rem;
+  margin: auto;
+}
+
+.slogan {
+  color: #584C9D;
+  margin-top: 2rem;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.main_text {
+  color: #584C9D;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-size: 3rem;
+  line-height: 5rem;
+  font-weight: 300;
+}
+
+.p_s {
+  font-size: 1.6rem;
+  color: #6D7278;
+  font-weight: lighter;
+}
+
+.container {
+  text-align: center;
+}
+
+.entry {
+  color: #ffff;
+  padding: 2rem;
+  font-size: 3rem;
+  width: 30rem;
+  height: 10rem;
+  background-color: #584C9D;
+  border-radius: 1rem;
+  margin-top: 4rem;
+  margin-bottom: 10rem;
+  cursor: pointer;
+}
+
+.main_image img{
+  width: 524px;
+}
+
+footer {
+  height: 20rem;
+  background-color: #FAFAFA;
+  margin-top: 5rem;
+}
+
+.f_container {
+  max-width: 100rem;
+  margin: auto;
+}
+
+.f_title {
+  padding-top: 3rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #323232;
+}
+
+.f_privacy {
+  padding-top: 1rem;
+  font-size: 1.4rem;
+  color: #323232;
+}
+
+.f_privacy a:link {
+  text-decoration: none;
+}
+
+.f_privacy a:visited {
+  color: #323232;
+}
+
+.f_info {
+  padding-top: 4rem;
+  font-size: 1.4rem;
+  line-height: 2.5rem;
+  color: #6D7278;
+}
