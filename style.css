@@ -3,6 +3,7 @@
 
 html {
   font-size: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 header {
@@ -55,6 +56,7 @@ header {
   margin-top: 2rem;
   font-weight: 400;
   font-size: 2.5rem;
+  
 }
 
 .main_text {
@@ -63,7 +65,7 @@ header {
   margin-bottom: 3rem;
   font-size: 3rem;
   line-height: 5rem;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .p_s {
