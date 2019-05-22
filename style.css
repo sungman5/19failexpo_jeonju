@@ -181,7 +181,7 @@ footer {
     margin: auto;
   }
 
-  .f_info {
-    padding-bottom: 2rem;
+  footer {
+    padding-bottom: 4rem;
   }
 }
